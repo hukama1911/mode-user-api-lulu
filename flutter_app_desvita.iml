@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Tugas-1-/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Tugas-1-/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Tugas-1-/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Lat-3-list/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Lat-3-list/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Lat-3-list/Tugas-1-/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Lat-3-list/Tugas-1-/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Lat-3-list/Tugas-1-/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Lat-3-list/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Ltihan-3-list/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Ltihan-3-list/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Ltihan-3-list/Lat-3-list/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Ltihan-3-list/Lat-3-list/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Ltihan-3-list/Lat-3-list/Tugas-1-/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Ltihan-3-list/Lat-3-list/Tugas-1-/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Ltihan-3-list/Lat-3-list/Tugas-1-/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Ltihan-3-list/Lat-3-list/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Ltihan-3-list/Tugas-1-/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Ltihan-3-list/Tugas-1-/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Ltihan-3-list/Tugas-1-/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Ltihan-3-list/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Maps-/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Maps-/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Maps-/build" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+    <orderEntry type="library" name="Flutter Plugins" level="project" />
+  </component>
+</module>
